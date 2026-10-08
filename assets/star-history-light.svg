@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
 <title id="title">Star history for tiiagoLima/Gnos</title>
-<desc id="desc">Daily recorded stars for tiiagoLima/Gnos from 2026-09-25 to 2026-10-07. Starts just before the first recorded star. Latest recorded total: 1.</desc>
+<desc id="desc">Daily recorded stars for tiiagoLima/Gnos from 2026-09-25 to 2026-10-08. Starts just before the first recorded star. Latest recorded total: 1.</desc>
 <rect width="960" height="390" fill="#ffffff"/>
 <text x="70" y="38" fill="#24292f" font-size="20" font-weight="700">tiiagoLima/Gnos</text>
 <text x="70" y="62" fill="#57606a" font-size="13">Daily recorded stars · since Sep 26, 2026</text>
@@ -11,24 +11,25 @@
 <text x="58" y="214.0" text-anchor="end" fill="#57606a" font-size="12">0.5</text>
 <line x1="70" y1="96.0" x2="918" y2="96.0" stroke="#d8dee4" stroke-width="1"/>
 <text x="58" y="100.0" text-anchor="end" fill="#57606a" font-size="12">1</text>
-<path d="M70.0,324.0 L140.7,96.0 L211.3,96.0 L282.0,96.0 L352.7,96.0 L423.3,96.0 L494.0,96.0 L564.7,96.0 L635.3,96.0 L706.0,96.0 L776.7,96.0 L847.3,96.0 L918.0,96.0 L918.0,324 L70.0,324 Z" fill="#2da44e" fill-opacity="0.13"/>
-<path d="M70.0,324.0 L140.7,96.0 L211.3,96.0 L282.0,96.0 L352.7,96.0 L423.3,96.0 L494.0,96.0 L564.7,96.0 L635.3,96.0 L706.0,96.0 L776.7,96.0 L847.3,96.0 L918.0,96.0" fill="none" stroke="#1a7f37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,324.0 L135.2,96.0 L200.5,96.0 L265.7,96.0 L330.9,96.0 L396.2,96.0 L461.4,96.0 L526.6,96.0 L591.8,96.0 L657.1,96.0 L722.3,96.0 L787.5,96.0 L852.8,96.0 L918.0,96.0 L918.0,324 L70.0,324 Z" fill="#2da44e" fill-opacity="0.13"/>
+<path d="M70.0,324.0 L135.2,96.0 L200.5,96.0 L265.7,96.0 L330.9,96.0 L396.2,96.0 L461.4,96.0 L526.6,96.0 L591.8,96.0 L657.1,96.0 L722.3,96.0 L787.5,96.0 L852.8,96.0 L918.0,96.0" fill="none" stroke="#1a7f37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="70.0" y="349" text-anchor="start" fill="#57606a" font-size="12">Sep 25</text>
-<text x="282.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Sep 28</text>
-<text x="494.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 1</text>
-<text x="706.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 4</text>
-<text x="918.0" y="349" text-anchor="end" fill="#57606a" font-size="12">Oct 7</text>
+<text x="265.7" y="349" text-anchor="middle" fill="#57606a" font-size="12">Sep 28</text>
+<text x="461.4" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 1</text>
+<text x="722.3" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 5</text>
+<text x="918.0" y="349" text-anchor="end" fill="#57606a" font-size="12">Oct 8</text>
 <circle cx="70.0" cy="324.0" r="4" fill="#1a7f37"><title>Sep 25: 0 stars</title></circle>
-<circle cx="140.7" cy="96.0" r="4" fill="#1a7f37"><title>Sep 26: 1 stars</title></circle>
-<circle cx="211.3" cy="96.0" r="4" fill="#1a7f37"><title>Sep 27: 1 stars</title></circle>
-<circle cx="282.0" cy="96.0" r="4" fill="#1a7f37"><title>Sep 28: 1 stars</title></circle>
-<circle cx="352.7" cy="96.0" r="4" fill="#1a7f37"><title>Sep 29: 1 stars</title></circle>
-<circle cx="423.3" cy="96.0" r="4" fill="#1a7f37"><title>Sep 30: 1 stars</title></circle>
-<circle cx="494.0" cy="96.0" r="4" fill="#1a7f37"><title>Oct 1: 1 stars</title></circle>
-<circle cx="564.7" cy="96.0" r="4" fill="#1a7f37"><title>Oct 2: 1 stars</title></circle>
-<circle cx="635.3" cy="96.0" r="4" fill="#1a7f37"><title>Oct 3: 1 stars</title></circle>
-<circle cx="706.0" cy="96.0" r="4" fill="#1a7f37"><title>Oct 4: 1 stars</title></circle>
-<circle cx="776.7" cy="96.0" r="4" fill="#1a7f37"><title>Oct 5: 1 stars</title></circle>
-<circle cx="847.3" cy="96.0" r="4" fill="#1a7f37"><title>Oct 6: 1 stars</title></circle>
-<circle cx="918.0" cy="96.0" r="4" fill="#1a7f37"><title>Oct 7: 1 stars</title></circle>
+<circle cx="135.2" cy="96.0" r="4" fill="#1a7f37"><title>Sep 26: 1 stars</title></circle>
+<circle cx="200.5" cy="96.0" r="4" fill="#1a7f37"><title>Sep 27: 1 stars</title></circle>
+<circle cx="265.7" cy="96.0" r="4" fill="#1a7f37"><title>Sep 28: 1 stars</title></circle>
+<circle cx="330.9" cy="96.0" r="4" fill="#1a7f37"><title>Sep 29: 1 stars</title></circle>
+<circle cx="396.2" cy="96.0" r="4" fill="#1a7f37"><title>Sep 30: 1 stars</title></circle>
+<circle cx="461.4" cy="96.0" r="4" fill="#1a7f37"><title>Oct 1: 1 stars</title></circle>
+<circle cx="526.6" cy="96.0" r="4" fill="#1a7f37"><title>Oct 2: 1 stars</title></circle>
+<circle cx="591.8" cy="96.0" r="4" fill="#1a7f37"><title>Oct 3: 1 stars</title></circle>
+<circle cx="657.1" cy="96.0" r="4" fill="#1a7f37"><title>Oct 4: 1 stars</title></circle>
+<circle cx="722.3" cy="96.0" r="4" fill="#1a7f37"><title>Oct 5: 1 stars</title></circle>
+<circle cx="787.5" cy="96.0" r="4" fill="#1a7f37"><title>Oct 6: 1 stars</title></circle>
+<circle cx="852.8" cy="96.0" r="4" fill="#1a7f37"><title>Oct 7: 1 stars</title></circle>
+<circle cx="918.0" cy="96.0" r="4" fill="#1a7f37"><title>Oct 8: 1 stars</title></circle>
 </svg>
