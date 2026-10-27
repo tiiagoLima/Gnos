@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
 <title id="title">Star history for tiiagoLima/Gnos</title>
-<desc id="desc">Daily recorded stars for tiiagoLima/Gnos from 2026-09-25 to 2026-10-26. Starts just before the first recorded star. Latest recorded total: 1.</desc>
+<desc id="desc">Daily recorded stars for tiiagoLima/Gnos from 2026-09-25 to 2026-10-27. Starts just before the first recorded star. Latest recorded total: 1.</desc>
 <rect width="960" height="390" fill="#ffffff"/>
 <text x="70" y="38" fill="#24292f" font-size="20" font-weight="700">tiiagoLima/Gnos</text>
 <text x="70" y="62" fill="#57606a" font-size="13">Daily recorded stars · since Sep 26, 2026</text>
@@ -11,12 +11,12 @@
 <text x="58" y="214.0" text-anchor="end" fill="#57606a" font-size="12">0.5</text>
 <line x1="70" y1="96.0" x2="918" y2="96.0" stroke="#d8dee4" stroke-width="1"/>
 <text x="58" y="100.0" text-anchor="end" fill="#57606a" font-size="12">1</text>
-<path d="M70.0,324.0 L97.4,96.0 L124.7,96.0 L152.1,96.0 L179.4,96.0 L206.8,96.0 L234.1,96.0 L261.5,96.0 L288.8,96.0 L316.2,96.0 L343.5,96.0 L370.9,96.0 L398.3,96.0 L425.6,96.0 L453.0,96.0 L480.3,96.0 L507.7,96.0 L535.0,96.0 L562.4,96.0 L589.7,96.0 L617.1,96.0 L644.5,96.0 L671.8,96.0 L699.2,96.0 L726.5,96.0 L753.9,96.0 L781.2,96.0 L808.6,96.0 L835.9,96.0 L863.3,96.0 L890.6,96.0 L918.0,96.0 L918.0,324 L70.0,324 Z" fill="#2da44e" fill-opacity="0.13"/>
-<path d="M70.0,324.0 L97.4,96.0 L124.7,96.0 L152.1,96.0 L179.4,96.0 L206.8,96.0 L234.1,96.0 L261.5,96.0 L288.8,96.0 L316.2,96.0 L343.5,96.0 L370.9,96.0 L398.3,96.0 L425.6,96.0 L453.0,96.0 L480.3,96.0 L507.7,96.0 L535.0,96.0 L562.4,96.0 L589.7,96.0 L617.1,96.0 L644.5,96.0 L671.8,96.0 L699.2,96.0 L726.5,96.0 L753.9,96.0 L781.2,96.0 L808.6,96.0 L835.9,96.0 L863.3,96.0 L890.6,96.0 L918.0,96.0" fill="none" stroke="#1a7f37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,324.0 L96.5,96.0 L123.0,96.0 L149.5,96.0 L176.0,96.0 L202.5,96.0 L229.0,96.0 L255.5,96.0 L282.0,96.0 L308.5,96.0 L335.0,96.0 L361.5,96.0 L388.0,96.0 L414.5,96.0 L441.0,96.0 L467.5,96.0 L494.0,96.0 L520.5,96.0 L547.0,96.0 L573.5,96.0 L600.0,96.0 L626.5,96.0 L653.0,96.0 L679.5,96.0 L706.0,96.0 L732.5,96.0 L759.0,96.0 L785.5,96.0 L812.0,96.0 L838.5,96.0 L865.0,96.0 L891.5,96.0 L918.0,96.0 L918.0,324 L70.0,324 Z" fill="#2da44e" fill-opacity="0.13"/>
+<path d="M70.0,324.0 L96.5,96.0 L123.0,96.0 L149.5,96.0 L176.0,96.0 L202.5,96.0 L229.0,96.0 L255.5,96.0 L282.0,96.0 L308.5,96.0 L335.0,96.0 L361.5,96.0 L388.0,96.0 L414.5,96.0 L441.0,96.0 L467.5,96.0 L494.0,96.0 L520.5,96.0 L547.0,96.0 L573.5,96.0 L600.0,96.0 L626.5,96.0 L653.0,96.0 L679.5,96.0 L706.0,96.0 L732.5,96.0 L759.0,96.0 L785.5,96.0 L812.0,96.0 L838.5,96.0 L865.0,96.0 L891.5,96.0 L918.0,96.0" fill="none" stroke="#1a7f37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="70.0" y="349" text-anchor="start" fill="#57606a" font-size="12">Sep 25</text>
-<text x="288.8" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 3</text>
-<text x="507.7" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 11</text>
-<text x="699.2" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 18</text>
-<text x="918.0" y="349" text-anchor="end" fill="#57606a" font-size="12">Oct 26</text>
-<circle cx="918.0" cy="96.0" r="4" fill="#1a7f37"><title>Oct 26: 1 stars</title></circle>
+<text x="282.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 3</text>
+<text x="494.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 11</text>
+<text x="706.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 19</text>
+<text x="918.0" y="349" text-anchor="end" fill="#57606a" font-size="12">Oct 27</text>
+<circle cx="918.0" cy="96.0" r="4" fill="#1a7f37"><title>Oct 27: 1 stars</title></circle>
 </svg>
