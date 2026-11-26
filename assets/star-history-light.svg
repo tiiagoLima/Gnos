@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
 <title id="title">Star history for tiiagoLima/Gnos</title>
-<desc id="desc">Daily recorded stars for tiiagoLima/Gnos from 2026-09-25 to 2026-11-25. Starts just before the first recorded star. Latest recorded total: 1.</desc>
+<desc id="desc">Daily recorded stars for tiiagoLima/Gnos from 2026-09-25 to 2026-11-26. Starts just before the first recorded star. Latest recorded total: 1.</desc>
 <rect width="960" height="390" fill="#ffffff"/>
 <text x="70" y="38" fill="#24292f" font-size="20" font-weight="700">tiiagoLima/Gnos</text>
 <text x="70" y="62" fill="#57606a" font-size="13">Daily recorded stars · since Sep 26, 2026</text>
@@ -11,12 +11,12 @@
 <text x="58" y="214.0" text-anchor="end" fill="#57606a" font-size="12">0.5</text>
 <line x1="70" y1="96.0" x2="918" y2="96.0" stroke="#d8dee4" stroke-width="1"/>
 <text x="58" y="100.0" text-anchor="end" fill="#57606a" font-size="12">1</text>
-<path d="M70.0,324.0 L83.9,96.0 L97.8,96.0 L111.7,96.0 L125.6,96.0 L139.5,96.0 L153.4,96.0 L167.3,96.0 L181.2,96.0 L195.1,96.0 L209.0,96.0 L222.9,96.0 L236.8,96.0 L250.7,96.0 L264.6,96.0 L278.5,96.0 L292.4,96.0 L306.3,96.0 L320.2,96.0 L334.1,96.0 L348.0,96.0 L361.9,96.0 L375.8,96.0 L389.7,96.0 L403.6,96.0 L417.5,96.0 L431.4,96.0 L445.3,96.0 L459.2,96.0 L473.1,96.0 L487.0,96.0 L501.0,96.0 L514.9,96.0 L528.8,96.0 L542.7,96.0 L556.6,96.0 L570.5,96.0 L584.4,96.0 L598.3,96.0 L612.2,96.0 L626.1,96.0 L640.0,96.0 L653.9,96.0 L667.8,96.0 L681.7,96.0 L695.6,96.0 L709.5,96.0 L723.4,96.0 L737.3,96.0 L751.2,96.0 L765.1,96.0 L779.0,96.0 L792.9,96.0 L806.8,96.0 L820.7,96.0 L834.6,96.0 L848.5,96.0 L862.4,96.0 L876.3,96.0 L890.2,96.0 L904.1,96.0 L918.0,96.0 L918.0,324 L70.0,324 Z" fill="#2da44e" fill-opacity="0.13"/>
-<path d="M70.0,324.0 L83.9,96.0 L97.8,96.0 L111.7,96.0 L125.6,96.0 L139.5,96.0 L153.4,96.0 L167.3,96.0 L181.2,96.0 L195.1,96.0 L209.0,96.0 L222.9,96.0 L236.8,96.0 L250.7,96.0 L264.6,96.0 L278.5,96.0 L292.4,96.0 L306.3,96.0 L320.2,96.0 L334.1,96.0 L348.0,96.0 L361.9,96.0 L375.8,96.0 L389.7,96.0 L403.6,96.0 L417.5,96.0 L431.4,96.0 L445.3,96.0 L459.2,96.0 L473.1,96.0 L487.0,96.0 L501.0,96.0 L514.9,96.0 L528.8,96.0 L542.7,96.0 L556.6,96.0 L570.5,96.0 L584.4,96.0 L598.3,96.0 L612.2,96.0 L626.1,96.0 L640.0,96.0 L653.9,96.0 L667.8,96.0 L681.7,96.0 L695.6,96.0 L709.5,96.0 L723.4,96.0 L737.3,96.0 L751.2,96.0 L765.1,96.0 L779.0,96.0 L792.9,96.0 L806.8,96.0 L820.7,96.0 L834.6,96.0 L848.5,96.0 L862.4,96.0 L876.3,96.0 L890.2,96.0 L904.1,96.0 L918.0,96.0" fill="none" stroke="#1a7f37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,324.0 L83.7,96.0 L97.4,96.0 L111.0,96.0 L124.7,96.0 L138.4,96.0 L152.1,96.0 L165.7,96.0 L179.4,96.0 L193.1,96.0 L206.8,96.0 L220.5,96.0 L234.1,96.0 L247.8,96.0 L261.5,96.0 L275.2,96.0 L288.8,96.0 L302.5,96.0 L316.2,96.0 L329.9,96.0 L343.5,96.0 L357.2,96.0 L370.9,96.0 L384.6,96.0 L398.3,96.0 L411.9,96.0 L425.6,96.0 L439.3,96.0 L453.0,96.0 L466.6,96.0 L480.3,96.0 L494.0,96.0 L507.7,96.0 L521.4,96.0 L535.0,96.0 L548.7,96.0 L562.4,96.0 L576.1,96.0 L589.7,96.0 L603.4,96.0 L617.1,96.0 L630.8,96.0 L644.5,96.0 L658.1,96.0 L671.8,96.0 L685.5,96.0 L699.2,96.0 L712.8,96.0 L726.5,96.0 L740.2,96.0 L753.9,96.0 L767.5,96.0 L781.2,96.0 L794.9,96.0 L808.6,96.0 L822.3,96.0 L835.9,96.0 L849.6,96.0 L863.3,96.0 L877.0,96.0 L890.6,96.0 L904.3,96.0 L918.0,96.0 L918.0,324 L70.0,324 Z" fill="#2da44e" fill-opacity="0.13"/>
+<path d="M70.0,324.0 L83.7,96.0 L97.4,96.0 L111.0,96.0 L124.7,96.0 L138.4,96.0 L152.1,96.0 L165.7,96.0 L179.4,96.0 L193.1,96.0 L206.8,96.0 L220.5,96.0 L234.1,96.0 L247.8,96.0 L261.5,96.0 L275.2,96.0 L288.8,96.0 L302.5,96.0 L316.2,96.0 L329.9,96.0 L343.5,96.0 L357.2,96.0 L370.9,96.0 L384.6,96.0 L398.3,96.0 L411.9,96.0 L425.6,96.0 L439.3,96.0 L453.0,96.0 L466.6,96.0 L480.3,96.0 L494.0,96.0 L507.7,96.0 L521.4,96.0 L535.0,96.0 L548.7,96.0 L562.4,96.0 L576.1,96.0 L589.7,96.0 L603.4,96.0 L617.1,96.0 L630.8,96.0 L644.5,96.0 L658.1,96.0 L671.8,96.0 L685.5,96.0 L699.2,96.0 L712.8,96.0 L726.5,96.0 L740.2,96.0 L753.9,96.0 L767.5,96.0 L781.2,96.0 L794.9,96.0 L808.6,96.0 L822.3,96.0 L835.9,96.0 L849.6,96.0 L863.3,96.0 L877.0,96.0 L890.6,96.0 L904.3,96.0 L918.0,96.0" fill="none" stroke="#1a7f37" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="70.0" y="349" text-anchor="start" fill="#57606a" font-size="12">Sep 25</text>
-<text x="278.5" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 10</text>
-<text x="487.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 25</text>
-<text x="709.5" y="349" text-anchor="middle" fill="#57606a" font-size="12">Nov 10</text>
-<text x="918.0" y="349" text-anchor="end" fill="#57606a" font-size="12">Nov 25</text>
-<circle cx="918.0" cy="96.0" r="4" fill="#1a7f37"><title>Nov 25: 1 stars</title></circle>
+<text x="288.8" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 11</text>
+<text x="494.0" y="349" text-anchor="middle" fill="#57606a" font-size="12">Oct 26</text>
+<text x="699.2" y="349" text-anchor="middle" fill="#57606a" font-size="12">Nov 10</text>
+<text x="918.0" y="349" text-anchor="end" fill="#57606a" font-size="12">Nov 26</text>
+<circle cx="918.0" cy="96.0" r="4" fill="#1a7f37"><title>Nov 26: 1 stars</title></circle>
 </svg>
